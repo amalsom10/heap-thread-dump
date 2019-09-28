@@ -9,7 +9,6 @@ appnames = []
 app_found= []
 stagelink="http://marathon-stage.net:8080/v2/apps/"
 prodlinkdcos="http://mesosui-prod.net/v2/apps"
-#prodlinkmesos="http://mesosui-ro1.prod-ola-mesos.olacabs.net/v2/apps"
 host = []
 host_name = []
 containerid = []
